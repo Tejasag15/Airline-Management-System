@@ -14,7 +14,9 @@ Email Notifications: Automated email notifications are sent to customers upon su
 ## Technologies Used:
 
 Front-end: HTML, CSS, JavaScript
+
 Back-end: PHP
+
 Database: MySQL
 
 This Airline Booking System aims to streamline the flight booking process, providing a user-friendly interface for customers while offering efficient management tools for airline staff. The project demonstrates the practical implementation of web development technologies and database management to create a robust and scalable solution.
